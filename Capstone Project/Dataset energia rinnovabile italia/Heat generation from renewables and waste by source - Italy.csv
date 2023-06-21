@@ -1,0 +1,11 @@
+Source: IEA Renewables Information 2022 https://www.iea.org/data-and-statistics/data-product/renewables-information
+Documentation: https://iea.blob.core.windows.net/assets/2f64aae6-bcdc-4c1f-9b98-e3f9fcc6d12f/RenewablesInformationdocumentation2022edition.pdf
+This data is subject to the IEA's terms and conditions: https://www.iea.org/terms
+
+,Industrial waste,Primary solid biofuels,Biogases,Liquid biofuels,Geothermal,Solar thermal,Units
+2004,1112,3491,1082,,,,TJ
+2005,104,3888,1084,,,,TJ
+2010,,6156,1029,1036,589,,TJ
+2015,219,22221,8604,1771,780,2,TJ
+2020,488,21174,11477,2390,872,8,TJ
+2021,443,19757,10776,2066,872,8,TJ
