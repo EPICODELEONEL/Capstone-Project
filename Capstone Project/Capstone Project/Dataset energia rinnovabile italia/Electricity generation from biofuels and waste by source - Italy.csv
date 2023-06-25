@@ -1,0 +1,13 @@
+Source: IEA Renewables Information 2022 https://www.iea.org/data-and-statistics/data-product/renewables-information
+Documentation: https://iea.blob.core.windows.net/assets/2f64aae6-bcdc-4c1f-9b98-e3f9fcc6d12f/RenewablesInformationdocumentation2022edition.pdf
+This data is subject to the IEA's terms and conditions: https://www.iea.org/terms
+
+,Industrial waste,Primary solid biofuels,Biogases,Municipal waste (renew),Liquid biofuels,Units
+1990,16,12,2,37,,GWh
+1995,87,30,103,85,,GWh
+2000,112,425,567,402,,GWh
+2005,170,2166,1198,1309,,GWh
+2010,98,2261,2055,2047,3078,GWh
+2015,85,3947,8212,2343,4894,GWh
+2020,73,4470,8166,2330,4667,GWh
+2021,66,4330,7593,2304,4045,GWh

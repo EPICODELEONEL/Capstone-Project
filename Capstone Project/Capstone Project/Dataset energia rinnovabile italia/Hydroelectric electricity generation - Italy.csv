@@ -1,0 +1,13 @@
+Source: IEA Renewables Information 2022 https://www.iea.org/data-and-statistics/data-product/renewables-information
+Documentation: https://iea.blob.core.windows.net/assets/2f64aae6-bcdc-4c1f-9b98-e3f9fcc6d12f/RenewablesInformationdocumentation2022edition.pdf
+This data is subject to the IEA's terms and conditions: https://www.iea.org/terms
+
+,Hydro,Units
+1990,35079,GWh
+1995,41907,GWh
+2000,50899,GWh
+2005,42927,GWh
+2010,54407,GWh
+2015,46969,GWh
+2020,49495,GWh
+2021,46831,GWh
